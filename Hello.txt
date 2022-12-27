@@ -3,4 +3,4 @@ Good Morning
 
 $ git clone https://github.com/venugottemukkula/REPO.git
 Username: venugottemukkula
-Password: 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
+Password: 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
